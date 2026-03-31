@@ -1,0 +1,24 @@
+# Python byte-code
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# pytest cache
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
